@@ -1,2 +1,3 @@
-# lsp-jwp
-LSP Junior Web Programming
+# lsp
+## Sertifikasi Kompetensi Junior Web Programming
+Tugas Web 
